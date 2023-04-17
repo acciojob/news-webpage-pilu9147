@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.main {
+	background-color: #f5f5f5;
+}
+header {
+	background-color : #011e29;
+	color : #ffffff;
+	text-align: center;
+	padding:5px;
+	margin:5px;	
+}
+.body {
+	display : inline-block;
+}
+.d1 {
+	width: 200px;
+	background-color: none;
+	border : 
+}
