@@ -9,11 +9,34 @@ header {
 	padding:5px;
 	margin:5px;	
 }
-.body {
-	display : inline-block;
+.latest-news-section{
+	border: 2px solid black;
+	border-radius : 10px;
+	padding:15px;
+	float : left;
+	background-color: white;
+	width:20%;
+	margin : 10px;
 }
-.d1 {
-	width: 200px;
-	background-color: none;
-	border : 
+.main-articles{
+	border: 2px solid black;
+	border-radius : 10px;
+	padding:15px;
+	float : left;
+	background-color: white;
+	width:40%;
+	margin : 10px;
+	
 }
+.pictorial-news-section{
+	border: 2px solid black;
+	border-radius : 10px;
+	padding:10px;
+	float : right;
+	background-color: white;
+	width:20%;
+	margin : 10px;
+}
+img {
+	width : 150px;
+	}
